@@ -39,7 +39,7 @@ Here are some repositories I’ve built that capture the core of my interests an
 | **LidDrivenCavityPINN** | Physics-informed neural network solving the lid-driven cavity flow |
 | **morris_parameterization** | Sensitivity and parameterization studies for fluid problems |
 
-👉 You can pin the repos above in your profile to highlight them more prominently.
+<!-- 👉 You can pin the repos above in your profile to highlight them more prominently. -->
 
 ---
 
